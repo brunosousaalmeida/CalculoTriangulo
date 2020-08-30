@@ -1,0 +1,13 @@
+C:\Users\bruno\Projetos\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.exe
+C:\Users\bruno\Projetos\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.deps.json
+C:\Users\bruno\Projetos\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.runtimeconfig.json
+C:\Users\bruno\Projetos\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.runtimeconfig.dev.json
+C:\Users\bruno\Projetos\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.dll
+C:\Users\bruno\Projetos\CalculoTriangulo\bin\Debug\netcoreapp3.1\CalculoTriangulo.pdb
+C:\Users\bruno\Projetos\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.csprojAssemblyReference.cache
+C:\Users\bruno\Projetos\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.AssemblyInfoInputs.cache
+C:\Users\bruno\Projetos\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.AssemblyInfo.cs
+C:\Users\bruno\Projetos\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Projetos\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.dll
+C:\Users\bruno\Projetos\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.pdb
+C:\Users\bruno\Projetos\CalculoTriangulo\obj\Debug\netcoreapp3.1\CalculoTriangulo.genruntimeconfig.cache
